@@ -83,5 +83,5 @@
 
 <!-- Cyberpunk Art Section -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/58/22/06/582206f3d31d51cc796d4896df751157.jpg" alt="Cyberpunk Theme Art" width="80%" />
+  <img src="https://i.pinimg.com/736x/08/04/60/0804605bcfafec586fdda2766e4d138f.jpg" alt="Cyberpunk Theme Art" width="80%" />
 </p>
