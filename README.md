@@ -76,3 +76,7 @@
 🛢️ Database      : MongoDB, MySQL, Firebase
 ⚙️ DevOps Tools  : Git, Docker, Linux
 🧠 AI/ML         : Scikit-learn, Pandas, NumPy
+
+🔗 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahim-shaikh-02b343194/)  
+- 🖥️ [Portfolio](https://portfoliorahi.netlify.app/) 
