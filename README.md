@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">![V city Cyberpunk Wallpaper](https://github.com/user-attachments/assets/e2531789-e727-4d7c-922e-06eee0d2277c)
+<p align="center">
 
-  <img src="https://your-image-url.com/banner.png" alt="Banner" width="100%" />
+  <img src="V city Cyberpunk Wallpaper" alt="Rahim Shaikh Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there! I'm Rahim Shaikh 🔥</h1>
