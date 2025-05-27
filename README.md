@@ -4,9 +4,9 @@
 </p>
 
 <h1 align="center">Hey there! I'm Rahim Shaikh 🔥</h1>
-<p align="center">🚀 A Passionate Full-Stack Developer | DevOps Enthusiast | Problem Solver</p>
+<p align="center">🚀 A Passionate Full-Stack Developer | DevOps Enthusiast | Problem Solver
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /></p>
 
 ---
 
