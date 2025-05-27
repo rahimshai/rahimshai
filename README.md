@@ -1,30 +1,29 @@
 <!-- Banner -->
 <p align="center">
-
-  <img src="V city Cyberpunk Wallpaper" alt="Rahim Shaikh Banner" width="100%" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Cyberpunk City Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there! I'm Rahim Shaikh 🔥</h1>
-<p align="center">
-  
-</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Began the journey with ** JAVA **
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-username" alt="Rahim Shaikh" width="200" />
+</p>
+
+- 🔭 Began the journey with **JAVA**
 - 🌐 Work on **frontend & web design** when bored of **Data Science & AI/ML**
 - 🌱 Exploring advanced DevOps practices — CI/CD, Docker, Kubernetes, and Observability
 - 🎓 Currently pursuing a **degree in Computer Science**
-- 💬 Ask me about: `Java`, `Spring Boot`, `React`, `Node.js`, `MongoDB`, `Firebase`, 
-        `Jenkins`, `GitLab`, `Linux`
+- 💬 Ask me about: `Java`, `Spring Boot`, `React`, `Node.js`, `MongoDB`, `Firebase`, `Jenkins`, `GitLab`, `Linux`
 - 💼 Hands-on experience in **Full Stack Development**
 - 🎯 Goal: To build robust, maintainable applications that scale
 - ⚡ Fun fact: I believe coffee and clean code can fix (almost) everything
 - 🎯 I only like **perfection**
 
-> “Code is like humor. When you have to explain it, it’s bad.” 
+> “Code is like humor. When you have to explain it, it’s bad.”
 
 ---
 
@@ -56,13 +55,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahimshai&show_icons=true&theme=radical" alt="rahimshai stats" />
-  <img src="https://github-readme-readme-streak-stats.herokuapp.com/?user=rahimshai&theme=radical" alt="rahimshai streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahimshai&theme=radical" alt="rahimshai streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimshai&layout=compact&theme=radical" alt="rahimshai top languages" />
 </p>
-
 
 ---
 
@@ -74,8 +72,3 @@
 🛢️ Database      : MongoDB, MySQL, Firebase
 ⚙️ DevOps Tools  : Git, Docker, Linux
 🧠 AI/ML         : Scikit-learn, Pandas, NumPy
-
-🔗 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/rahim-shaikh-02b343194/)  
-- 🖥️ [Portfolio](https://portfoliorahi.netlify.app/)  
-🧠 Motto: Learn, Build, Share.
