@@ -1,5 +1,9 @@
 <!-- Banner -->
-<h1 align="center">Hey there! I'm Rahim Shaikh 👋 aka rahimshai  🔥</h1>
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">Hey there! I'm Rahim Shaikh 🔥</h1>
 <p align="center">
   
 </p>
