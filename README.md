@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Cyberpunk City Banner" width="100%" />
+  <img src="https://i.pinimg.com/736x/58/22/06/582206f3d31d51cc796d4896df751157.jpg" alt="Cyberpunk City Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there! I'm Rahim Shaikh 🔥</h1>
