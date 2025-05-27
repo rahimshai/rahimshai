@@ -5,29 +5,25 @@
 
 <h1 align="center">Hey there! I'm Rahim Shaikh 🔥</h1>
 <p align="center">🚀 A Passionate Full-Stack Developer | DevOps Enthusiast | Problem Solver</p>
-<P></P>
-<P></P>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
 
 ---
 
 ## 🧠 About Me
 
-
-
-- 🔭 Began the journey with **JAVA**
-- 🌐 Work on **frontend & web design** when bored of **Data Science & AI/ML**
-- 🌱 Exploring advanced DevOps practices — CI/CD, Docker, Kubernetes, and Observability
-- 🎓 Currently pursuing a **degree in Computer Science**
+- 🔭 Started my journey with **Java**
+- 🌐 I explore **frontend & web design** when I need a break from **Data Science & AI/ML**
+- 🌱 Currently diving deeper into **DevOps** — CI/CD, Docker, Kubernetes, and Observability
+- 🎓 Pursuing a **degree in Computer Science**
 - 💬 Ask me about: `Java`, `Spring Boot`, `React`, `Node.js`, `MongoDB`, `Firebase`, `Jenkins`, `GitLab`, `Linux`
 - 💼 Hands-on experience in **Full Stack Development**
-- 🎯 Goal: To build robust, maintainable applications that scale
+- 🎯 Goal: Build scalable, robust, and maintainable applications
 - ⚡ Fun fact: I believe coffee and clean code can fix (almost) everything
-- 🎯 I only like **perfection**
+- 💡 Motto: Striving for clean, maintainable, and near-perfect solutions
 
-> “Code is like humor. When you have to explain it, it’s bad.”
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> “I may be lazy, but that just means I write efficient code.”
 
 ---
 
@@ -70,13 +66,16 @@
 
 ## 🧰 Tech Stack
 
-```bash
-🖥️ Frontend      : HTML, CSS, JavaScript, React, Bootstrap
-🧠 Backend       : Node.js, .NET, Python
-🛢️ Database      : MongoDB, MySQL, Firebase
-⚙️ DevOps Tools  : Git, Docker, Linux
-🧠 AI/ML         : Scikit-learn, Pandas, NumPy
+- 🖥️ **Frontend**: HTML, CSS, JavaScript, React, Bootstrap  
+- 🧠 **Backend**: Node.js, .NET, Python  
+- 🛢️ **Database**: MongoDB, MySQL, Firebase  
+- ⚙️ **DevOps Tools**: Git, Docker, Linux  
+- 🤖 **AI/ML**: Scikit-learn, Pandas, NumPy  
 
-🔗 Let's Connect!
+---
+
+## 🔗 Let's Connect!
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/rahim-shaikh-02b343194/)  
-- 🖥️ [Portfolio](https://portfoliorahi.netlify.app/) 
+- 🖥️ [Visit My Portfolio](https://portfoliorahi.netlify.app/)
+
