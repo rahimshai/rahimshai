@@ -1,7 +1,7 @@
 <!-- Banner -->
 <h1 align="center">Hey there! I'm Rahim Shaikh 👋 aka rahimshai  🔥</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Namaste+🙏+I'm+a+Passionate+Programmer.;Full+Stack+Developer+%7C+.NET+%7C+Python+%7C+React.;Lover+of+Clean+Code+and+Perfect+Designs."/>
+  
 </p>
 
 ---
