@@ -71,6 +71,6 @@
 🧠 AI/ML         : Scikit-learn, Pandas, NumPy
 
 🔗 Let's Connect!
-💼 LinkedIn
-🖥️ Portfolio (optional)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahim-shaikh-02b343194/)  
+- 🖥️ [Portfolio](https://portfoliorahi.netlify.app/)  
 🧠 Motto: Learn, Build, Share.
