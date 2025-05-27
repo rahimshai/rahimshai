@@ -50,12 +50,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MASTERJUDAH&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MASTERJUDAH&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahimshai&show_icons=true&theme=radical" alt="rahimshai stats" />
+  <img src="https://github-readme-readme-streak-stats.herokuapp.com/?user=rahimshai&theme=radical" alt="rahimshai streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASTERJUDAH&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimshai&layout=compact&theme=radical" alt="rahimshai top languages" />
 </p>
+
 
 ---
 
