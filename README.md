@@ -1,5 +1,6 @@
 <!-- Banner -->
-<p align="center">
+<p align="center">![V city Cyberpunk Wallpaper](https://github.com/user-attachments/assets/e2531789-e727-4d7c-922e-06eee0d2277c)
+
   <img src="https://your-image-url.com/banner.png" alt="Banner" width="100%" />
 </p>
 
@@ -16,7 +17,7 @@
 - 🌐 Work on **frontend & web design** when bored of **Data Science & AI/ML**
 - 🌱 Exploring advanced DevOps practices — CI/CD, Docker, Kubernetes, and Observability
 - 🎓 Currently pursuing a **degree in Computer Science**
-- - 💬 Ask me about: `Java`, `Spring Boot`, `React`, `Node.js`, `MongoDB`, `Firebase`, 
+- 💬 Ask me about: `Java`, `Spring Boot`, `React`, `Node.js`, `MongoDB`, `Firebase`, 
         `Jenkins`, `GitLab`, `Linux`
 - 💼 Hands-on experience in **Full Stack Development**
 - 🎯 Goal: To build robust, maintainable applications that scale
