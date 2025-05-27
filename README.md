@@ -1,54 +1,74 @@
-<h1 align="center">Hey there! 👋 I'm Rahim Shai</h1>
-<p align="center">🚀 A Passionate Full-Stack Developer | DevOps Enthusiast | Problem Solver</p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
----
-
-### 🙋‍♂️ About Me
-
-- 🔭 Currently working on modernizing legacy monoliths into scalable microservices
-- 🌱 Exploring advanced DevOps practices — CI/CD, Docker, Kubernetes, and Observability
-- 💬 Ask me about: `Java`, `Spring Boot`, `React`, `Node.js`, `MongoDB`, `Firebase`, `Jenkins`, `GitLab`, `Linux`
-- 🎯 Goal: To build robust, maintainable applications that scale
-- ⚡ Fun fact: I believe coffee and clean code can fix (almost) everything
-
----
-
-### 🛠️ Tech Stack & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-
+<!-- Banner -->
+<h1 align="center">Hey there! I'm Rahim Shaikh 👋 aka rahimshai  🔥</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahimshai&show_icons=true&theme=radical" alt="rahimshai stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimshai&layout=compact&theme=radical" alt="rahimshai top languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Namaste+🙏+I'm+a+Passionate+Programmer.;Full+Stack+Developer+%7C+.NET+%7C+Python+%7C+React.;Lover+of+Clean+Code+and+Perfect+Designs."/>
 </p>
 
 ---
 
-### 🔗 Connect with Me
+## 🧠 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahimshai)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://rahimshai.github.io)
+- 🔭 Began the journey with ** JAVA **
+- 🌐 Work on **frontend & web design** when bored of **Data Science & AI/ML**
+- 🌱 Exploring advanced DevOps practices — CI/CD, Docker, Kubernetes, and Observability
+- 🎓 Currently pursuing a **degree in Computer Science**
+- - 💬 Ask me about: `Java`, `Spring Boot`, `React`, `Node.js`, `MongoDB`, `Firebase`, 
+        `Jenkins`, `GitLab`, `Linux`
+- 💼 Hands-on experience in **Full Stack Development**
+- 🎯 Goal: To build robust, maintainable applications that scale
+- ⚡ Fun fact: I believe coffee and clean code can fix (almost) everything
+- 🎯 I only like **perfection**
+
+> “Code is like humor. When you have to explain it, it’s bad.” 
 
 ---
 
-### 💬 Developer Quote
+## 🚀 Languages & Tools I Have Placed My Hands On
 
-> "First, solve the problem. Then, write the code." — John Johnson
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+</p>
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MASTERJUDAH&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MASTERJUDAH&theme=radical" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASTERJUDAH&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+```bash
+🖥️ Frontend      : HTML, CSS, JavaScript, React, Bootstrap
+🧠 Backend       : Node.js, .NET, Python
+🛢️ Database      : MongoDB, MySQL, Firebase
+⚙️ DevOps Tools  : Git, Docker, Linux
+🧠 AI/ML         : Scikit-learn, Pandas, NumPy
+
+🔗 Let's Connect!
+💼 LinkedIn
+🖥️ Portfolio (optional)
+🧠 Motto: Learn, Build, Share.
